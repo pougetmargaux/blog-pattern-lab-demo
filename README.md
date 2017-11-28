@@ -1,2 +1,1 @@
-# blog-pattern-lab-demo
-This is a demo site for the blog pattern lab of Margaux Pouget
+This directory is the default target for pattern and site generation, as dictated by `patternlab-config.json`.
