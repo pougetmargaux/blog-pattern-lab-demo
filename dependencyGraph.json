@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1511867106833,
+  "timestamp": 1511998981167,
   "graph": {
     "options": {
       "directed": true,
@@ -39,19 +39,25 @@
         }
       },
       {
-        "v": "00-atoms/buttons/button.mustache",
+        "v": "00-atoms/buttons/button-lire-big.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "00-atoms/buttons/lire.mustache",
+        "v": "00-atoms/buttons/button-soumettre.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "00-atoms/buttons/text-button.mustache",
+        "v": "00-atoms/buttons/lire-small.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/buttons/voir-tout.mustache",
         "value": {
           "compileState": "clean"
         }
@@ -108,6 +114,90 @@
       },
       {
         "v": "00-atoms/images/hero.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/auteur.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/croix.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/culture.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/design.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/developpement.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/homepage.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/innovation.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/interactions.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/menu.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/navigation-next.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/navigation-previous.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/newsletter.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/recherche.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icones/ux-ui.mustache",
         "value": {
           "compileState": "clean"
         }
