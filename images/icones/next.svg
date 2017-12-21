@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="17px" viewBox="0 0 11 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>next</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.62296687,9.18445765 C1.6741525,9.29526041 1.74634154,9.39906036 1.839534,9.49011046 L8.19247517,15.697007 C8.60597148,16.1009977 9.27638146,16.1009977 9.68987777,15.697007 C10.1033741,15.2930164 10.1033741,14.6380181 9.68987777,14.2340275 L3.55622612,8.24137931 L9.160466,2.76597253 C9.57396231,2.36198189 9.57396231,1.70698363 9.160466,1.30299298 C8.74696969,0.899002338 8.07655972,0.899002338 7.66306341,1.30299298 L1.31012223,7.50988954 C0.896625923,7.91388018 0.896625923,8.56887844 1.31012223,8.97286908 C1.40331469,9.06391918 1.50955699,9.13444871 1.62296687,9.18445765 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="next">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Line-3-Copy" fill="#979797" fill-rule="nonzero" transform="translate(5.500000, 8.500000) scale(-1, 1) translate(-5.500000, -8.500000) " xlink:href="#path-1"></use>
+            <g id="color/green/foncé" mask="url(#mask-2)" fill="#20AC8D">
+                <g transform="translate(-22.000000, -23.000000)" id="Rectangle-7-Copy-2">
+                    <rect x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
